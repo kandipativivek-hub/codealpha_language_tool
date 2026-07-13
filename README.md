@@ -9,3 +9,5 @@
 - Streamlit
 - Deep Translator
 ## 🌐 Open Application
+
+https://github.com/kandipativivek-hub/codealpha_language_tool
