@@ -10,4 +10,4 @@
 - Deep Translator
 ## 🌐 Open Application
 
-https://github.com/kandipativivek-hub/codealpha_language_tool
+https://codealphalanguagetool-bjbjci85s5kqxvmaewvcba.streamlit.app/
