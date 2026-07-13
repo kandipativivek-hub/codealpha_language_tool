@@ -34,7 +34,7 @@ if st.button("Translate"):
     except Exception as e:
         st.error(f"Error: {e}")
 
-https://github.com/kandipativivek-hub/codealpha_language_tool
+
 
 
 
