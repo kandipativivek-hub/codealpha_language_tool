@@ -31,6 +31,13 @@ if st.button("Translate"):
         st.success("Translation Completed")
         st.write("### Translated Text")
         st.write(translated)
-
     except Exception as e:
         st.error(f"Error: {e}")
+
+https://github.com/kandipativivek-hub/codealpha_language_tool
+
+
+
+
+
+
